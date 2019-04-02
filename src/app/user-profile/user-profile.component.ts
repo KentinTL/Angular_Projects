@@ -20,7 +20,9 @@ export class UserProfileComponent implements OnInit {
     this.hidden = !this.hidden;
   }
 
-  constructor() { }
+  constructor() {
+
+   }
 
   ngOnInit() {
   }
